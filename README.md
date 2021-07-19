@@ -1,5 +1,19 @@
 # SmartResult
 ESMP_Smart_Result_Project
+
+Important Note 
+This project only works in netbeans.
+executable Jar file for project is still in devlopment phase
+
+
+
+
+
+
+
+
+
+
 1. Project Title:
 SMART RESULT ANALYSIS
 “Software for SMART RESULT ANALYSIS Using Java”
